@@ -186,7 +186,14 @@ These optional modules can evolve the platform into a full **Demulla Internal Op
    - Automated **notifications** remind employees before task deadlines.  
    - Enables daily productivity tracking and historical task analytics for performance insights.
 
-6. **Other features as requested**
+6. **Digital Suggestion Box**  
+   - Allows employees to submit feedback, ideas, or issues **anonymously**.  
+   - Eliminates the need for physical suggestion boxes.  
+   - Submissions can be automatically categorized (e.g., HR, IT, Welfare).  
+   - Admins can review and respond to suggestions within the system dashboard.  
+   - Encourages open communication while maintaining employee privacy.
+
+7. **Other Features as Requested**
 
 All add-ons can be implemented as separate microservices for better scalability.
 
